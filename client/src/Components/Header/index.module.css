@@ -1,0 +1,25 @@
+.header {
+  margin-bottom: 20px;
+  padding: 20px 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header button {
+  height: auto;
+  padding: 8px;
+}
+
+.header button h1 {
+  height: fit-content;
+  margin: 0;
+  text-align: center;
+  line-height: 1;
+}
+
+.teamIcon {
+  font-size: 26px;
+  margin-right: 12px;
+}
