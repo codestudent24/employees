@@ -1,10 +1,9 @@
+import { Employees } from './pages/Employees';
 import './App.css';
 
 function App() {
   return (
-    <>
-      <h1>Hello World</h1>
-    </>
+    <Employees />
   );
 }
 

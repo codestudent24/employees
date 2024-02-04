@@ -1,25 +1,25 @@
 .header {
   margin-bottom: 20px;
-  padding: 20px 0;
+  padding: 20px 8px;
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
-.header button {
-  height: auto;
-  padding: 8px;
-}
-
-.header button h1 {
-  height: fit-content;
-  margin: 0;
-  text-align: center;
-  line-height: 1;
+.employeesSpace button {
+  position: relative;
+  top: 12px;
+  height: 50px;
 }
 
 .teamIcon {
   font-size: 26px;
-  margin-right: 12px;
+  margin: 30px 2px 12px 0;
+}
+
+.loginSpace button {
+  position: relative;
+  line-height: 1;
+  top: 12px;
 }
